@@ -1,0 +1,24 @@
+{
+  "name": "lab4-amavroud",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShaimaaAliECE/lab4-amavroud.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShaimaaAliECE/lab4-amavroud/issues"
+  },
+  "homepage": "https://github.com/ShaimaaAliECE/lab4-amavroud#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "jquery": "^3.6.0"
+  }
+}
